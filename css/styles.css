@@ -1,0 +1,21 @@
+body {
+  background-color: powderblue;
+}
+
+hr {
+
+  border-color: white;
+  height: 3px;
+  box-shadow: none;
+  border-style: dotted none none;
+
+  width: 10%;
+  border-width: 12px
+}
+
+h1{
+  color: hotpink;
+}
+h3{
+  color: hotpink;
+}
